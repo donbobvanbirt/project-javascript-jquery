@@ -61,6 +61,10 @@ a:hover {
 
 .black {
 	background-color: #080808;
+	font-size: 0;
+	margin: 0 !important;
+	padding: 0 !important;
+	border-width: 0;
 }
 
 .row {
@@ -74,7 +78,6 @@ a:hover {
 
 #footer {
 	margin: 30px;
-	background-color: #000033;
 }
 
 #left {
